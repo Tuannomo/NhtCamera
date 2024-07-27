@@ -10,4 +10,5 @@ class CameraManager {
     fun startCamera() {
         // Implementation code
     }
+
 }

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NhtCamera</string>
+
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_confirm">Confirm</string>
+
+    <string name="camera_guide">Tap for photo</string>
+    <string name="camera_txt_ok">OK</string>
+    <string name="camera_reach_limit_picture_inform">You can only capture 10 pictures at a time</string>
+    <string name="camera_not_enough_storage_inform">Not enough storage. Try again later</string>
+    <string name="camera_inform_all_photos_will_be_discarded">Are you sure you want to close the camera? Your photos will be discarded.</string>
+
+    <string name="txt_open_settings">Open settings</string>
+    <string name="dialog_cancel_text">Cancel</string>
+    <string name="txt_permission_message_dialog_inform">Permission to access camera and gallery required. Please grant permission in your device settings.</string>
+    <string name="txt_camera_permission_message_dialog_inform">Permission to access camera, gallery and location required. Please grant permission in your device settings.</string>
+    <string name="txt_camera_location_dialog_above_pie">Location is not allowed. Please turn on your location device settings.</string>
+    <string name="txt_camera_location_dialog_below_pie">Location is not allowed. Please enable the high accuracy mode for your location setting.</string>
+</resources>
